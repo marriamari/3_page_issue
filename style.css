@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Unna:wght@400;700&display=swap');
+
+body {
+	font-family: 'Unna', serif;
+	background: #d9d9d9;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+}
+
+.bannerA {
+	position: relative;
+	text-align: center;
+	color: white;
+	font-size: 60px;
+}
+
+.bannerB {
+	position: absolute;
+	bottom: 200px;
+	left: 16px;
+}
+.bannerC {
+	position: absolute;
+	bottom: 100px;
+	left: 16px;
+}
+.bannerD {
+	position: absolute;
+	bottom: 8px;
+	left: 16px;
+}
+
+.homePic {
+	display: inline;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 50px;
+	width: 100%;
+}
+
+.sideNav {
+	margin-top: 10px;
+	bottom: 700px;
+	font-weight: 30;
+	font-size: 20px;
+	/*text-align: right;*/
+	position: fixed;
+	right: 90px;
+}
+
+.navItems {
+	margin-block: 50px;
+}
+
+.largeTitle {
+	color: white;
+	font-size: 30px;
+	margin-left: 10px;
+
+}
+
+.aboutTitle {
+	color: #63b05a;
+	margin-left: 10px;
+}
+
+.aboutList {
+	margin-left: 50px;
+	color: #777778;
+	font-size: 34px;
+}
+
+.aboutText {
+	color: white;
+	margin-left: 50px;
+	margin-right: 300px;
+	font-size: 30px;
+}
+
+
+.grandfatherOrg {
+	margin-left: 50px;
+	margin-right: 300px;
+	font-size: 30px;
+	text-decoration: underline  white;
+}
+
+.aboutPic {
+	text-align: center;
+	margin-left: 15%;
+
+}
+
+.informationA {
+	font-size: 30px;
+	text-decoration: underline  white;
+	display: block;
+	margin-left: 50px;
+	margin-right: 300px;
+	padding: 2%;
+}
+
+.refPic {
+	text-align: center;
+	margin-left: 30%;
+}
+
+
+
+
